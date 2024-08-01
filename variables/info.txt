@@ -1,0 +1,23 @@
+Python Variables
+A variable is the name given to a memory location. A value-holding Python variable is also known as an identifier.
+
+Since Python is an infer language that is smart enough to determine the type of a variable, we do not need to specify its type in Python.
+
+Variable names must begin with a letter or an underscore, but they can be a group of both letters and digits.
+
+The name of the variable should be written in lowercase. Both Rahul and rahul are distinct variables.
+
+Identifier Naming
+Identifiers are things like variables. An Identifier is utilized to recognize the literals utilized in the program. The standards to name an identifier are given underneath.
+
+The variable's first character must be an underscore or alphabet (_).
+Every one of the characters with the exception of the main person might be a letter set of lower-case(a-z), capitalized (A-Z), highlight, or digit (0-9).
+White space and special characters (!, @, #, %, etc.) are not allowed in the identifier name. ^, &, *).
+Identifier name should not be like any watchword characterized in the language.
+Names of identifiers are case-sensitive; for instance, my name, and MyName isn't something very similar.
+Examples of valid identifiers: a123, _n, n_9, etc.
+Examples of invalid identifiers: 1a, n%4, n 9, etc.
+Declaring Variable and Assigning Values
+Python doesn't tie us to pronounce a variable prior to involving it in the application. It permits us to make a variable at the necessary time.
+In Python, we don't have to explicitly declare variables. The variable is declared automatically whenever a value is added to it.
+The equal (=) operator is utilized to assign worth to a variable.

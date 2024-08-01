@@ -1,0 +1,66 @@
+In the late 1980s, Guido van Rossum dreamed of developing Python. The first version of Python 0.9.0 was released in 1991. Since its release, Python started gaining popularity. According to reports, Python is now the most popular programming language among developers because of its high demands in the tech realm.
+
+What is Python
+Python is a general-purpose, dynamically typed, high-level, compiled and interpreted, garbage-collected, and purely object-oriented programming language that supports procedural, object-oriented, and functional programming.
+
+Features of Python:
+Easy to use and Read - Python's syntax is clear and easy to read, making it an ideal language for both beginners and experienced programmers. This simplicity can lead to faster development and reduce the chances of errors.
+Dynamically Typed - The data types of variables are determined during run-time. We do not need to specify the data type of a variable during writing codes.
+High-level - High-level language means human readable code.
+Compiled and Interpreted - Python code first gets compiled into bytecode, and then interpreted line by line. When we download the Python in our system form org we download the default implement of Python known as CPython. CPython is considered to be Complied and Interpreted both.
+Garbage Collected - Memory allocation and de-allocation are automatically managed. Programmers do not specifically need to manage the memory.
+Purely Object-Oriented - It refers to everything as an object, including numbers and strings.
+Cross-platform Compatibility - Python can be easily installed on Windows, macOS, and various Linux distributions, allowing developers to create software that runs across different operating systems.
+Rich Standard Library - Python comes with several standard libraries that provide ready-to-use modules and functions for various tasks, ranging from web development and data manipulation to machine learning and networking.
+Open Source - Python is an open-source, cost-free programming language. It is utilized in several sectors and disciplines as a result.
+Python has many web-based assets, open-source projects, and a vibrant community. Learning the language, working together on projects, and contributing to the Python ecosystem are all made very easy for developers.
+
+Because of its straightforward language framework, Python is easier to understand and write code in. This makes it a fantastic programming language for novices. Additionally, it assists seasoned programmers in writing clear and error-free code.
+
+Python has many third-party libraries that can be used to make its functionality easier. These libraries cover many domains, for example, web development, scientific computing, data analysis, and more.
+
+Java vs. Python
+Python is an excellent choice for rapid development and scripting tasks. Whereas Java emphasizes a strong type system and object-oriented programming.
+
+Here are some basic programs that illustrates key differences between them.
+
+Printing 'Hello World'
+Python Code:
+
+print("Hello World)"  
+In Python, it is one line of code. It requires simple syntax to print 'Hello World'
+
+Java Code:
+
+public class HelloWorld {  
+    public static void main(String[] args) {  
+        System.out.println("Hello, World!");  
+    }  
+}  
+In Java, we need to declare classes, method structures many other things.
+
+While both programs give the same output, we can notice the syntax difference in the print statement.
+
+In Python, it is easy to learn and write code. While in Java, it requires more code to perform certain tasks.
+Python is dynamically typed, meaning we do not need to declare the variable Whereas Java is statistically typed, meaning we need to declare the variable type.
+Python is suitable for various domains such as Data Science, Machine Learning, Web development, and more. Whereas Java is suitable for web development, mobile app development (Android), and more.
+Python Basic Syntax
+There is no use of curly braces or semicolons in Python programming language. It is an English-like language. But Python uses indentation to define a block of code. Indentation is nothing but adding whitespace before the statement when it is needed.
+
+For example -
+
+def func():  
+       statement 1  
+       statement 2  
+       …………………  
+       …………………  
+         statement N  
+In the above example, the statements that are the same level to the right belong to the function. Generally, we can use four whitespaces to define indentation.
+
+Instead of Semicolon as used in other languages, Python ends its statements with a NewLine character.
+
+Python is a case-sensitive language, which means that uppercase and lowercase letters are treated differently. For example, 'name' and 'Name' are two different variables in Python.
+
+In Python, comments can be added using the '#' symbol. Any text written after the '#' symbol is considered a comment and is ignored by the interpreter. This trick is useful for adding notes to the code or temporarily disabling a code block. It also helps in understanding the code better by some other developers.
+
+'If', 'otherwise', 'for', 'while', 'try', 'except', and 'finally' are a few reserved keywords in Python that cannot be used as variable names. These terms are used in the language for particular reasons and have fixed meanings. If you use these keywords, your code may include errors, or the interpreter may reject them as potential new Variables.
