@@ -1,0 +1,10 @@
+a=[1,2,3,4,5,6,7,8,9,0,1,1,2,3]
+print(a.index(4))
+print(a.count(1))
+print(a.count(2))
+a.insert(1,20)
+print(a)
+a.reverse()
+print(a)
+a.sort()
+print(a)

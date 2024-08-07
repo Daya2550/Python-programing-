@@ -1,0 +1,11 @@
+a=[]
+a.append(1)
+a.append(2)
+print(a)
+a.pop()
+print(a)
+a.append(5)
+a.append(6)
+print(a)
+a.remove(5)
+print(a)
