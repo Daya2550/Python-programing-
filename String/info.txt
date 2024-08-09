@@ -1,0 +1,8 @@
+Python String
+Till now, we have discussed numbers as the standard data-types in Python. In this section of the tutorial, we will discuss the most popular data type in Python, i.e., string.
+
+Python string is the collection of the characters surrounded by single quotes, double quotes, or triple quotes. The computer does not understand the characters; internally, it stores manipulated character as the combination of the 0's and 1's.
+
+Each character is encoded in the ASCII or Unicode character. So we can say that Python strings are also called the collection of Unicode characters.
+
+In Python, strings can be created by enclosing the character or the sequence of characters in the quotes. Python allows us to use single quotes, double quotes, or triple quotes to create the string.
